@@ -1,4 +1,4 @@
-Optimization of Machine Downtime
+## Optimization of Machine Downtime
 
 **A data analysis project to better understand machine failures and assess the potential of predictive alerts.** 
 
