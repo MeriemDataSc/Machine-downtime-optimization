@@ -1,6 +1,6 @@
 ## Optimization of Machine Downtime
 
-**A data analysis project to better understand machine failures and assess the potential of predictive alerts.** 
+*A data analysis project to better understand machine failures and assess the potential of predictive alerts.* 
 
 It combines sensor data exploration, classification model comparison, and an illustrative economic assessment. The focus is operational: which signals are worth monitoring, how maintenance actions might be prioritized, and what value a reliable alert could bring.
 
